@@ -293,8 +293,8 @@ Nenhuma query atravessa Account. Ver "Multi-tenant e modelo de negócio".
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/Alvesvnc/Meu-Quintal.git
-cd Meu-Quintal
+git clone https://github.com/Alvesvnc/QRO.git
+cd QRO
 
 # Instalar dependências de todos os workspaces
 corepack enable
